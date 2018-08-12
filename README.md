@@ -1,2 +1,2 @@
 # Physics-1-Module
-A Module to solve physics 1 level problems
+The Goal of this is to write a module in Python that can solve first semester physics problems. 
